@@ -9,7 +9,8 @@ Manejo de JSON: Extraer y trabajar con datos en JSON, el formato estándar de la
 
 
 #####################
-Código
+# Código
+
 import requests
 
 api_key = "TU_API_KEY"
